@@ -365,7 +365,7 @@ input[type="color"] {
 
 .lyric {
     margin: 0px 20px 0 450px;
-    /* border: 1px solid gray; */
+    border: 5px solid green; */
     height: 400px;
 }
 
